@@ -9,6 +9,6 @@
 - Learned to write Flutter app basic code.
 
 
-## Resources
+### Resources
 - [Recorded Session](https://youtu.be/OigmEmF0Iqc) - Complete session recording with explanation
 - [Session Presentation](https://drive.google.com/file/d/1NF5CAeEyh2SABPPgNIpY_4TshraENl6I/view?usp=share_link) - Presentation which was used in the session
