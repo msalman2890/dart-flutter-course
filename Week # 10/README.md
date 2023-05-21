@@ -6,6 +6,9 @@
 - Learned about Future.delayed
 - Explored to use third party dependencies like GoogleFonts
 
+### Authentication App
+
+<img width="831" alt="Screenshot 2023-05-22 at 1 35 04 AM" src="https://github.com/msalman2890/dart-flutter-course/assets/64697477/fffe5c2c-c875-44a1-bd77-999ea9e5a466">
 
 ### Resources
 - [Recorded Session](https://youtu.be/F9v_V7F7CNE) - Complete session recording with explanation
